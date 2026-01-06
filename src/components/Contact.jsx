@@ -48,7 +48,7 @@ export default function Contact() {
           
           {/* Tombol Download CV */}
           <a
-            href="/CV_AZKA_LUKMAN_SURYANA.pdf"
+            href="/CV AZKA LUKMAN SURYANA.pdf"
             download
             target="_blank"
             rel="noopener noreferrer"
