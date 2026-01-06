@@ -8,8 +8,8 @@ export default function Licenses() {
       title: "Junior Web Developer",
       org: "Badan Nasional Sertifikasi Profesi",
       year: "2025",
-      img: "../images/bnsp_logo.png", // path gambar di public/images/
-      link: "https://www.xyz-institute.com/react-cert",
+      img: "../images/bnsp_logo.png",
+      link: "https://bnsp.net/sertifikat-bnsp/junior-web-developer",
     },
     {
       icon: <FaCertificate size={32} />,
@@ -17,7 +17,7 @@ export default function Licenses() {
       org: "Magang PT Dirgantara Indonesia",
       year: "2023",
       img: "../images/PTDI.png",
-      link: "https://www.comptia.org/certifications/a",
+      link: "https://www.indonesian-aerospace.com/en/",
     },
     {
       icon: <FaCertificate size={32} />,
@@ -25,7 +25,7 @@ export default function Licenses() {
       org: "Cisco Networking Academy",
       year: "2023",
       img: "../images/cisco.png",
-      link: "https://www.comptia.org/certifications/a",
+      link: "https://www.netacad.com/courses/ccna-introduction-networks?courseLang=en-US",
     },
     {
       icon: <FaCertificate size={32} />,
@@ -33,7 +33,7 @@ export default function Licenses() {
       org: "Cisco Networking Academy",
       year: "2023",
       img: "../images/cisco.png",
-      link: "https://www.comptia.org/certifications/a",
+      link: "https://www.netacad.com/courses/ccna-switching-routing-wireless-essentials?courseLang=en-US",
     },
   ];
 
