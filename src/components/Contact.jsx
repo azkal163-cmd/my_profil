@@ -1,4 +1,4 @@
-import { FaEnvelope, FaWhatsapp, FaLinkedin, FaGithub, FaDownload } from "react-icons/fa";
+import { FaEnvelope, FaWhatsapp, FaLinkedin, FaGithub, FaDownload, FaInstagram } from "react-icons/fa";
 
 export default function Contact() {
   return (
@@ -26,6 +26,15 @@ export default function Contact() {
             className="flex items-center gap-2 px-6 py-3 rounded-2xl border hover:bg-green-600 hover:text-white transition"
           >
             <FaWhatsapp /> WhatsApp
+          </a>
+
+          <a
+            href="https://www.instagram.com/azkalukman__"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-2 px-6 py-3 rounded-2xl border hover:bg-[linear-gradient(45deg,#405de6,#5851db,#833ab4,#c13584,#e1306c,#fd1d1d)] hover:text-white transition"
+          >
+            <FaInstagram /> Instagram
           </a>
           
           <a

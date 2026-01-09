@@ -1,6 +1,7 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import About from "./components/About";
+import Experience from "./components/Experience";
 import Skill from "./components/Skill";
 import Licenses from "./components/Licenses";
 import Contact from "./components/Contact";
@@ -12,6 +13,7 @@ export default function App() {
       <Navbar />
       <Hero />
       <About />
+      <Experience />
       <Skill />
       <Licenses />
       <Contact />

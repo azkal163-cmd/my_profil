@@ -7,6 +7,7 @@ return (
 <a href="#home" className="hover:text-neutral-600">Home</a>
 <a href="#about" className="hover:text-neutral-600">About</a>
 <a href="#skills" className="hover:text-neutral-600">Skill</a>
+<a href="#experience" className="hover:text-neutral-600">Experience</a>
 <a href="#licenses" className="hover:text-neutral-600">Licenses</a>
 <a href="#contact" className="hover:text-neutral-600">Contact</a>
 </nav>
